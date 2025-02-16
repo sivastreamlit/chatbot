@@ -5,7 +5,7 @@ import streamlit_custome_css as siva
 
 siva.header_hide()
 siva.bg_image("https://th.bing.com/th/id/OIP.NpwMNKg85cQixL1MiYZ2QAHaE7?w=626&h=417&rs=1&pid=ImgDetMain")
-siva.sidebar_bg_image("https://as2.ftcdn.net/v2/jpg/03/38/11/79/1000_F_338117997_OpRlRHROyCssBl0eVbcMqXUmpEmt17IF.jpg")
+siva.sidebar_bg_image("https://th.bing.com/th/id/OIP.x0QxaKQdPpu2XXlOfU4bfAHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain")
 # Function to hash passwords
 def hash_password(password):
     return hashlib.sha256(password.encode()).hexdigest()
