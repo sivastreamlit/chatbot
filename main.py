@@ -145,8 +145,7 @@ def chatbot_dashboard():
         "who created you?": "I was created by a developer using Python and Streamlit.",
         "what is streamlit?": "Streamlit is an open-source Python library for creating interactive web apps.",
         "bye": "Goodbye! Have a great day!",
-        "thank you": "You're welcome! 😊"
-        "who is your favourite teacher?":"Dr.K.Maheswaran",    
+        "thank you": "You're welcome! 😊"   
         }
 
         st.title("💬 Mini Chatbot with Predefined Responses")
