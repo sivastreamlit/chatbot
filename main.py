@@ -146,7 +146,7 @@ def chatbot_dashboard():
         "what is streamlit?": "Streamlit is an open-source Python library for creating interactive web apps.",
         "bye": "Goodbye! Have a great day!",
         "thank you": "You're welcome! 😊"
-        "who is your favourite teacher?":"Dr.K.Maheswaran"    
+        "who is your favourite teacher?":"Dr.K.Maheswaran",    
         }
 
         st.title("💬 Mini Chatbot with Predefined Responses")
